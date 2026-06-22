@@ -21,13 +21,6 @@ Atari Pong es un videojuego clásico de tenis de mesa desarrollado en Python uti
 * Python 3.12
 * Pygame 2.6.1
 
-## Estructura del proyecto 
-Atari-Pong/
-│
-├── README.md
-├── main.py # configuracion y funcionamiento inicial 
-└── img/
-    └── juego.png
 
 ## Controles
 
