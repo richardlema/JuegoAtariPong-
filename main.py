@@ -60,7 +60,7 @@ while not game_over:
             game_over = True
             
         #Movimiento de jugadores 
-        
+    
         if event.type == pygame.KEYDOWN:
             #jugador 1
             if event.key == pygame.K_w:
