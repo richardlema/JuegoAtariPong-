@@ -11,6 +11,17 @@ Atari Pong es un videojuego clásico de tenis de mesa desarrollado en Python uti
 
 #Diagrama de flujo
 
+1. Diagrama de funcionamiento completo
+![Diagrama de funcionamiento completo](img/DiagramaFlujo/DiagramaCompleto.png)
+
+2. Diagrama de funcionamiento del comportamiento de los jugadores
+![Diagrama de funcionamiento completo](img/DiagramaFlujo/JUGADORES.png)
+
+3. Diagrama de funcionamiento comportamiento de pelota 
+![Diagrama de funcionamiento completo](img/DiagramaFlujo/pelota.png)
+
+4. Diagrama de funcionamiento del reinicio de juego
+![Diagrama de funcionamiento completo](img/DiagramaFlujo/reincioPelota.png)
 
 ## Características
 
