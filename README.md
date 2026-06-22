@@ -7,6 +7,11 @@
 
 Atari Pong es un videojuego clásico de tenis de mesa desarrollado en Python utilizando la biblioteca Pygame. El juego permite que dos jugadores compitan controlando una paleta cada uno, con el objetivo de evitar que la pelota salga de su lado del campo y conseguir puntos al superar al oponente.
 
+#Video Explicativo
+
+#Diagrama de flujo
+
+
 ## Características
 
 * Modo de juego para dos jugadores.
